@@ -86,18 +86,20 @@ const navigation = () => {
       </form>
 
     </div>
-    <div className=" col-12 col-md-7 col-lg-6 col-xl-8 d-none d-lg-block">
+  
+    <div className=" col-12 col-md-7 col-lg-6 col-xl-8 d-lg-block">
 
   
       <div className="bg-cover min-vh- mt-n1 me-n3">
-      <img src= "https://dashkit.goodthemes.co/assets/img/covers/auth-side-cover.jpg" alt=""/>
-      </div>
+      <img src= "https://dashkit.goodthemes.co/assets/img/covers/auth-side-cover.jpg" alt="gallery"/>
+      </div> 
 
     </div>
   </div> 
 </div>
 
   </div>;
+
 };
 
 export default navigation;
